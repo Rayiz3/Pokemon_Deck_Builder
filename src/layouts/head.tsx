@@ -29,7 +29,7 @@ const HeadStyle = css({
 const Head: Component = () => {
     return (
       <div class={HeadStyle}>
-        Pokémon team builder
+        Pokémon Deck builder
       </div>
     );
 };
