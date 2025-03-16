@@ -1,34 +1,15 @@
-## Usage
+# Pokemon Deck builder
 
-Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
+**Direct link: [pokedeckbuild.netlify.app](https://pokedeckbuild.netlify.app/)**
 
-This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
+Pokemon deck recommendation system based on 2024 Pokemon world championship ranker's data :
 
-```bash
-$ npm install # or pnpm install or yarn install
-```
+https://victoryroad.pro/2024-worlds/
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+![image](https://github.com/user-attachments/assets/47940f2b-fdf6-49bb-b280-f8aa415089b7)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm run dev` or `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+## What you can do
+- Select your Pokemons
+- Or you can also refer the statistics from the ranker's Pokemon deck
+- Make detailed settings for each pokemon: item, ability, terastal type and moves
+- You can get recommendation based on your Pokemon selections
