@@ -44,7 +44,7 @@ class RecommandSys {
         }, {} as Record<string, entrySettingsType>);
 
         for (const entry of nearEntries) {
-            const nearEntry = dataSys.rankerInfo[entry.rank - 1].team;
+            const nearEntry = dataSys.teamInfo[entry.rank - 1].team;
 
             if (!nearEntry) continue;
 
@@ -64,8 +64,8 @@ class RecommandSys {
     knn = (entry: string[], N: number = 10) => {
         let entriesByDistance: entryDistanceType[] = [];
         
-        for (let i=0; i < dataSys.rankerInfo.length; i++) {
-            const comparingEntry = dataSys.rankerInfo[i].team.map((i) => i.name);
+        for (let i=0; i < dataSys.teamInfo.length; i++) {
+            const comparingEntry = dataSys.teamInfo[i].team.map((i) => i.name);
             entriesByDistance.push({
                 rank: i+1,
                 entry: comparingEntry,
