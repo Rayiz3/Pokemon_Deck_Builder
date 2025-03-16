@@ -5,6 +5,7 @@ import { Size } from '../property/Size';
 import { entrySys } from '../systems/Entry';
 import CloseButton from './closeButton';
 import { dataSys } from '../systems/Data';
+import { searchSys } from '../systems/Search';
 
 
 const PokemonCardStyle = (index: number, pokemon: string) => { return css({
@@ -155,6 +156,7 @@ const PokemonCard: Component<{index: Accessor<number>}> = ({index}) => {
           onfocus={() => {
             entrySys.setCurFocused(index());
             dataSys.getPokemonInfo(entrySys.entryList[index()].name);
+            searchSys.selectPokemon(entrySys.entryList[index()].name);
           }}>
           <Show when={entrySys.isMoves()} fallback={
             <div class={PokemonSettingsStyle}>
