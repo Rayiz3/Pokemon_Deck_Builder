@@ -1,0 +1,258 @@
+{
+    "Miraidon": {
+        "tera": [
+            "Fairy",
+            "Fairy",
+            "Fairy",
+            "Fairy",
+            "Fairy"
+        ],
+        "item": [
+            "Choice Specs",
+            "Choice Specs",
+            "Choice Specs",
+            "Choice Specs",
+            "Choice Specs"
+        ],
+        "ability": [
+            "Hadron Engine",
+            "Hadron Engine",
+            "Hadron Engine",
+            "Hadron Engine",
+            "Hadron Engine"
+        ],
+        "moves": [
+            "Electro Drift",
+            "Draco Meteor",
+            "Dazzling Gleam",
+            "Volt Switch",
+            "Electro Drift",
+            "Volt Switch",
+            "Dazzling Gleam",
+            "Draco Meteor",
+            "Electro Drift",
+            "Draco Meteor",
+            "Volt Switch",
+            "Dazzling Gleam",
+            "Electro Drift",
+            "Draco Meteor",
+            "Dazzling Gleam",
+            "Volt Switch",
+            "Dazzling Gleam",
+            "Draco Meteor",
+            "Electro Drift",
+            "Volt Switch"
+        ]
+    },
+    "Ogerpon_Hearthflame": {
+        "tera": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+        ],
+        "item": [
+            "Hearthflame Mask",
+            "Hearthflame Mask",
+            "Hearthflame Mask",
+            "Hearthflame Mask",
+            "Hearthflame Mask"
+        ],
+        "ability": [
+            "Mold Breaker",
+            "Mold Breaker",
+            "Mold Breaker",
+            "Mold Breaker",
+            "Mold Breaker"
+        ],
+        "moves": [
+            "Spiky Shield",
+            "Ivy Cudgel",
+            "Wood Hammer",
+            "Follow Me",
+            "Ivy Cudgel",
+            "Wood Hammer",
+            "Spiky Shield",
+            "Taunt",
+            "Ivy Cudgel",
+            "Wood Hammer",
+            "Follow Me",
+            "Spiky Shield",
+            "Ivy Cudgel",
+            "Horn Leech",
+            "Follow Me",
+            "Spiky Shield",
+            "Ivy Cudgel",
+            "Horn Leech",
+            "Follow Me",
+            "Spiky Shield"
+        ]
+    },
+    "Urshifu_Rapid Strike Style": {
+        "tera": [
+            "Water",
+            "Stellar",
+            "Stellar"
+        ],
+        "item": [
+            "Focus Sash",
+            "Focus Sash",
+            "Focus Sash"
+        ],
+        "ability": [
+            "Unseen Fist",
+            "Unseen Fist",
+            "Unseen Fist"
+        ],
+        "moves": [
+            "Detect",
+            "Surging Strikes",
+            "Close Combat",
+            "Aqua Jet",
+            "Surging Strikes",
+            "Close Combat",
+            "Aqua Jet",
+            "Detect",
+            "Close Combat",
+            "Surging Strikes",
+            "Aqua Jet",
+            "Detect"
+        ]
+    },
+    "Iron Hands": {
+        "tera": [
+            "Bug",
+            "Bug",
+            "Grass",
+            "Grass",
+            "Grass"
+        ],
+        "item": [
+            "Assault Vest",
+            "Assault Vest",
+            "Assault Vest",
+            "Assault Vest",
+            "Assault Vest"
+        ],
+        "ability": [
+            "Quark Drive",
+            "Quark Drive",
+            "Quark Drive",
+            "Quark Drive",
+            "Quark Drive"
+        ],
+        "moves": [
+            "Drain Punch",
+            "Wild Charge",
+            "Fake Out",
+            "Low Kick",
+            "Low Kick",
+            "Drain Punch",
+            "Fake Out",
+            "Wild Charge",
+            "Low Kick",
+            "Wild Charge",
+            "Drain Punch",
+            "Fake Out",
+            "Fake Out",
+            "Drain Punch",
+            "Low Kick",
+            "Heavy Slam",
+            "Fake Out",
+            "Low Kick",
+            "Drain Punch",
+            "Heavy Slam"
+        ]
+    },
+    "Whimsicott": {
+        "tera": [
+            "Dark",
+            "Fire",
+            "Dark",
+            "Water",
+            "Water"
+        ],
+        "item": [
+            "Covert Cloak",
+            "Covert Cloak",
+            "Covert Cloak",
+            "Covert Cloak",
+            "Covert Cloak"
+        ],
+        "ability": [
+            "Prankster",
+            "Prankster",
+            "Prankster",
+            "Prankster",
+            "Prankster"
+        ],
+        "moves": [
+            "Moonblast",
+            "Encore",
+            "Light Screen",
+            "Tailwind",
+            "Encore",
+            "Light Screen",
+            "Moonblast",
+            "Tailwind",
+            "Moonblast",
+            "Tailwind",
+            "Light Screen",
+            "Encore",
+            "Tailwind",
+            "Moonblast",
+            "Encore",
+            "Light Screen",
+            "Tailwind",
+            "Moonblast",
+            "Encore",
+            "Light Screen"
+        ]
+    },
+    "Farigiraf": {
+        "tera": [
+            "Water",
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+        ],
+        "item": [
+            "Electric Seed",
+            "Electric Seed",
+            "Electric Seed",
+            "Electric Seed",
+            "Electric Seed"
+        ],
+        "ability": [
+            "Armor Tail",
+            "Armor Tail",
+            "Armor Tail",
+            "Armor Tail",
+            "Armor Tail"
+        ],
+        "moves": [
+            "Psychic Noise",
+            "Foul Play",
+            "Helping Hand",
+            "Trick Room",
+            "Foul Play",
+            "Psychic Noise",
+            "Trick Room",
+            "Helping Hand",
+            "Psychic",
+            "Helping Hand",
+            "Trick Room",
+            "Foul Play",
+            "Trick Room",
+            "Psychic",
+            "Foul Play",
+            "Helping Hand",
+            "Trick Room",
+            "Helping Hand",
+            "Psychic Noise",
+            "Foul Play"
+        ]
+    }
+}
